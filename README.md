@@ -10,5 +10,5 @@ I am a postdoctoral researcher at the [Standord Icy Physics Group](https://icyph
     - [Collaborative and Reproducible Data Science at UC Berkeley](https://ucb-stat-159-s23.github.io/site/): Course given to undergraduate and graduate students.
     - [Machine Learning in Glaciology Workshop](https://machine-learning-in-glaciology-workshop.github.io): Given in Finse, Norway, to students and researchers working in the intersection of cryospheric sciences 🧊 and machine learning 🤖. 
 - 👯 I’m looking to collaborate with people interested in the intersection between machine learning, geophysics and scientific computing.
-- 📫 How to reach me: feel free to send me an email to `fsapienza@berkeley@edu`.
+- 📫 How to reach me: feel free to send me an email to `sapienza@stanford.edu`.
 - 😄 Pronouns: He/Him
