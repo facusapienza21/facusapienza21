@@ -13,4 +13,4 @@ I am a postdoctoral researcher at the [Standord Icy Physics Group](https://icyph
 - 📫 How to reach me: feel free to send me an email to `sapienza@stanford.edu`.
 - 😄 Pronouns: He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facusapienza21)](https://github.com/anuraghazra/github-readme-stats)
